@@ -1,0 +1,11 @@
+html, body {
+  width: 100vw;
+  height: 100vh;
+}
+body{
+  background-color: beige;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  height: 100vh;
+}
